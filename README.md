@@ -10,7 +10,7 @@ This is a React.js project initialized with Vite ($ npm create vite@latest).
 - Componentization;
 - Routes;
 - Responsiveness;
-- Styling with pure CSS;
+- Stylized with pure CSS;
 
 # Starting
 
